@@ -1,0 +1,21 @@
+# Local LLM binaries (large, machine-specific)
+models/
+
+# Vector index and cached embeddings
+index/
+
+# Personal / private source documents
+documents/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS stuff
+.DS_Store
+Thumbs.db
